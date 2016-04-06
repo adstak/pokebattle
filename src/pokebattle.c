@@ -1,6 +1,7 @@
-#include "pebble.h"
-#include "time.h"
-
+#include <pebble.h>
+#include <time.h>
+#define NUM_LEVEL_PKEY  0
+#define NUM_LEVEL_FRESH 5
 
 static Window *window;
 
@@ -10,9 +11,6 @@ static BitmapLayer *background_layer;
 static GFont *level_font;
 static GFont *date_font;
 static GFont *time_font;
-
-#define NUM_LEVEL_PKEY  0
-#define NUM_LEVEL_FRESH 5
 
 int level_int = 5;					
 TextLayer *text_level_ally_layer;
