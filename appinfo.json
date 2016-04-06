@@ -4,15 +4,233 @@
         ""
     ],
     "companyName": "derfreimann",
+    "enableMultiJS": false,
     "longName": "PokeBattle",
     "projectType": "native",
     "resources": {
         "media": [
             {
+                "file": "images/IMAGE_ENEMY_BLUE",
+                "name": "IMAGE_ENEMY_BLUE",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_CHARMANDER",
+                "name": "IMAGE_ENEMY_CHARMANDER",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_CYNDAQUIL",
+                "name": "IMAGE_ENEMY_CYNDAQUIL",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_DITTO",
+                "name": "IMAGE_ENEMY_DITTO",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_EEVEE",
+                "name": "IMAGE_ENEMY_EEVEE",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_EXEGGUTOR",
+                "name": "IMAGE_ENEMY_EXEGGUTOR",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_FERROSEED",
+                "name": "IMAGE_ENEMY_FERROSEED",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_FOONGUS",
+                "name": "IMAGE_ENEMY_FOONGUS",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_FROAKIE",
+                "name": "IMAGE_ENEMY_FROAKIE",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_GASTLY",
+                "name": "IMAGE_ENEMY_GASTLY",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_GENGAR",
+                "name": "IMAGE_ENEMY_GENGAR",
+                "spaceOptimization": "memory",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_GOLEM",
+                "name": "IMAGE_ENEMY_GOLEM",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_HAUNTER",
+                "name": "IMAGE_ENEMY_HAUNTER",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_HOUNDOUR",
+                "name": "IMAGE_ENEMY_HOUNDOUR",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_LORD_HELIX",
+                "name": "IMAGE_ENEMY_LORD_HELIX",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_MAGIKARP",
+                "name": "IMAGE_ENEMY_MAGIKARP",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_MEW",
+                "name": "IMAGE_ENEMY_MEW",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_MISSINGNO",
+                "name": "IMAGE_ENEMY_MISSINGNO",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_OSHAWATT",
+                "name": "IMAGE_ENEMY_OSHAWATT",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_PIKACHU",
+                "name": "IMAGE_ENEMY_PIKACHU",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_PSYDUCK",
+                "name": "IMAGE_ENEMY_PSYDUCK",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_SEEL",
+                "name": "IMAGE_ENEMY_SEEL",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_SLOWPOKE",
+                "name": "IMAGE_ENEMY_SLOWPOKE",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_STARMIE",
+                "name": "IMAGE_ENEMY_STARMIE",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_TORCHIC",
+                "name": "IMAGE_ENEMY_TORCHIC",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_TURTWIG",
+                "name": "IMAGE_ENEMY_TURTWIG",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/IMAGE_ENEMY_WEEDLE",
+                "name": "IMAGE_ENEMY_WEEDLE",
+                "spaceOptimization": "storage",
+                "storageFormat": "png",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
                 "file": "images/IMAGE_ENEMY_ZAPDOS",
                 "name": "IMAGE_ENEMY_ZAPDOS",
                 "spaceOptimization": "storage",
                 "storageFormat": "png",
+                "targetPlatforms": null,
                 "type": "bitmap"
             },
             {
@@ -49,141 +267,6 @@
             {
                 "file": "images/IMAGE_HEALTH_0.png",
                 "name": "IMAGE_HEALTH_0",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_WEEDLE.png",
-                "name": "IMAGE_ENEMY_WEEDLE",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_TURTWIG.png",
-                "name": "IMAGE_ENEMY_TURTWIG",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_TORCHIC.png",
-                "name": "IMAGE_ENEMY_TORCHIC",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_STARMIE.png",
-                "name": "IMAGE_ENEMY_STARMIE",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_SLOWPOKE.png",
-                "name": "IMAGE_ENEMY_SLOWPOKE",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_SEEL.png",
-                "name": "IMAGE_ENEMY_SEEL",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_PSYDUCK.png",
-                "name": "IMAGE_ENEMY_PSYDUCK",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_PIKACHU.png",
-                "name": "IMAGE_ENEMY_PIKACHU",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_OSHAWATT.png",
-                "name": "IMAGE_ENEMY_OSHAWATT",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_MISSINGNO.png",
-                "name": "IMAGE_ENEMY_MISSINGNO",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_MEW.png",
-                "name": "IMAGE_ENEMY_MEW",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_MAGIKARP.png",
-                "name": "IMAGE_ENEMY_MAGIKARP",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_LORD_HELIX.png",
-                "name": "IMAGE_ENEMY_LORD_HELIX",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_HOUNDOUR.png",
-                "name": "IMAGE_ENEMY_HOUNDOUR",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_HAUNTER.png",
-                "name": "IMAGE_ENEMY_HAUNTER",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_GOLEM.png",
-                "name": "IMAGE_ENEMY_GOLEM",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_GENGAR.png",
-                "name": "IMAGE_ENEMY_GENGAR",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_GASTLY.png",
-                "name": "IMAGE_ENEMY_GASTLY",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_FROAKIE.png",
-                "name": "IMAGE_ENEMY_FROAKIE",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_FOONGUS.png",
-                "name": "IMAGE_ENEMY_FOONGUS",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_FERROSEED.png",
-                "name": "IMAGE_ENEMY_FERROSEED",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_EXEGGUTOR.png",
-                "name": "IMAGE_ENEMY_EXEGGUTOR",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_EEVEE.png",
-                "name": "IMAGE_ENEMY_EEVEE",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_DITTO.png",
-                "name": "IMAGE_ENEMY_DITTO",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_CYNDAQUIL.png",
-                "name": "IMAGE_ENEMY_CYNDAQUIL",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_CHARMANDER.png",
-                "name": "IMAGE_ENEMY_CHARMANDER",
-                "type": "png"
-            },
-            {
-                "file": "images/IMAGE_ENEMY_BLUE.png",
-                "name": "IMAGE_ENEMY_BLUE",
                 "type": "png"
             },
             {
@@ -328,10 +411,12 @@
             }
         ]
     },
-    "sdkVersion": "2",
+    "sdkVersion": "3",
     "shortName": "PokeBattle",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "11f151c2-374c-422f-a1cb-5c420bbac840",
-    "versionCode": 1,
     "versionLabel": "3.3",
     "watchapp": {
         "watchface": true
