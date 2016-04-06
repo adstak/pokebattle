@@ -268,7 +268,7 @@
             {
                 "file": "images/IMAGE_ENEMY_GENGAR",
                 "name": "IMAGE_ENEMY_GENGAR",
-                "spaceOptimization": "memory",
+                "spaceOptimization": "storage",
                 "storageFormat": "png",
                 "targetPlatforms": null,
                 "type": "bitmap"
